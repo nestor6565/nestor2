@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<project>
+<file>data:southwind</file>
+<file>app:lianja_mobiledemo</file>
+<file>app:example_pagecenter</file>
+<file>app:example_mobileapp1</file>
+<file>lib:barry.prg</file>
+</project>
